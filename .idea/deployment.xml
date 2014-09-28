@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="thebreakfastfolk" compareModeInSync="TIMESTAMP">
+  <component name="PublishConfigData" serverName="thebreakfastfolk" compareModeInSync="TIMESTAMP" showNewOnTargetInSync="false">
     <serverData>
       <paths name="thebreakfastfolk">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/_site" web="/" />
           </mappings>
         </serverdata>
       </paths>
