@@ -45,20 +45,20 @@
 
 
             <ul class="nav navbar-nav">
+
+                {% for node in site.pages %}
+
+                {% if page.url == node.url %}
                 <li class="active">
-                    <a href="/">Home</a>
-                </li>
+
+                    {% else %}
                 <li>
-                    <a href="/tune_sets">Tune Sets</a>
+                    {% endif %}
+                    <a href="{{node.url}}">{{node.title}}</a>
                 </li>
-                <li>
-                    <a href="/venues">Venues</a>
-                </li>
-                <li>
-                    <a href="/start_a_breakfast">
-                        Start a Breakfast Folk Near You
-                    </a>
-                </li>
+
+                {% endfor %}
+
             </ul>
         </div>
         <!--/.nav-collapse -->
