@@ -17,3 +17,13 @@ github_username:  will-emmerson
 
 # Build settings
 markdown: kramdown
+
+exclude: [thebreakfastfolk.co.uk.iml]
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
