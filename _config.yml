@@ -1,0 +1,19 @@
+# Site settings
+title: The Breakfast Club
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Breakfast Folk is an opportunity for anyone anywhere to
+  participate in live folk music.
+  The idea came from a group of North-east folk musicians who due to
+  family commitments were unable to regularly attend the more
+  traditional evening pub-based sessions.
+  The saturday morning timing is therefore aimed at enabling young
+  families and beginner musicians to play in a friendly environment
+  and experience and develop playing live folk music.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "thebreakfastclub.co.uk" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  will-emmerson
+
+# Build settings
+markdown: kramdown
