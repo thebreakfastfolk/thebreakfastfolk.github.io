@@ -45,8 +45,8 @@
 
 
             <ul class="nav navbar-nav">
-
-                {% for node in site.pages %}
+                {% assign nodes = site.pages | sort: 'menu' %}
+                {% for node in nodes %}
 
                 {% if page.url == node.url %}
                 <li class="active">
