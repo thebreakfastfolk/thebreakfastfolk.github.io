@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+
+<div class="row">
+
+    <div id="left" class="col-md-6">
+        <p> {{ content }}
+    </div>
+
+    <div id="right" class="col-md-6">
+
+        <img id="fiddle" src="/images/fiddle.jpg"
+             alt="Someone playing the fiddle" width="90%" height="90%">
+
+        <ul>
+        {% for bullet in page.bullets %}
+            <li>
+                <span class="glyphicon glyphicon-{{ bullet[0] }}"></span>
+                {{ bullet[1] }}
+            </li>
+        {% endfor %}
+        </ul>
+
+    </div>
+</div>
