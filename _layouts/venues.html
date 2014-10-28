@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% for venue in page.venues %}
+
+<div class="row map">
+    <div id="map-outer" class="col-md-12">
+        <div id="address" class="col-md-4">
+            <address>
+                <strong>{{ venue.title }}</strong><br>
+                {{ venue.address }}
+            </address>
+
+            <address>
+                <strong>{{ venue.contact }}</strong><br>
+                <a href="mailto:{{ venue.email }}">{{ venue.email }}</a>
+            </address>
+
+            <iframe
+                    src="{{ venue.calendar }}"
+                    style=" border:solid 1px #777 "
+                    width="330"
+                    height="270"
+                    frameborder="0">
+            </iframe>
+
+        </div>
+        <iframe width="600"
+                height="450"
+                frameborder="0"
+                style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?q={{ venue.title }}&key=AIzaSyC9QZ-RBttqpnYoVYb-E8MxCNDev_9K4L0">
+        </iframe>
+
+    </div>
+    <!-- /map-outer -->
+
+</div>
+<!-- /row -->
+
+{% endfor %}
