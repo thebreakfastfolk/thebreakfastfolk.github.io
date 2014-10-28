@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="tune-sets row">
+
+    {% for heading in page.sets %}
+    <h3>{{ heading[0] }}</h3>
+        {% for set in heading[1] %}
+            <a href="http://www.folktunefinder.com/tune/{{ set[1] }}/"
+               target="_newtab">{{ set[0] }}</a> |
+        {% endfor %}
+    {% endfor %}
+
+</div>
