@@ -10,10 +10,10 @@ bullets:
   thumbs-up: For musicians of all ages and all abilities
   list-alt: Sheet music for the tunes being played will be made available
             when possible
-  glass: Families, friends and relatives all welcome to enjoy listening,
-         have a coffee, relax
   home: Community hall venues to allow room for toddlers and babies to
         have some fun
+  glass: Families, friends and relatives all welcome to enjoy listening,
+         have a coffee, relax
 
 ---
 
