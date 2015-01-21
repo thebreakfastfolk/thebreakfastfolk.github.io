@@ -24,5 +24,8 @@ sets:
   Johnny:
     Johnny Lad: 129644
     Go To Berwick, Johnny: 36485
+  Rant up Green Lane:
+    Dinnington Rant:  153499
+    Morpeth Rant: 176958
 
 ---
