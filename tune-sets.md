@@ -29,7 +29,6 @@ sets:
     Morpeth Rant: 176958
   West Jes Set:
     Egan's Polka: 51381
-    Rattlin Bog
     John Ryan's Polka: 51309
 
 ---
