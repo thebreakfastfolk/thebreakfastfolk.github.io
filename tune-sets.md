@@ -4,31 +4,31 @@ menu: 2
 layout: tune-sets
 sets:
   Easy reels: 
-    Jimmy Allen: 126391
-    Salmon Tails Up The Water: 51313
-    Because He Was A Bonny Lad: 137306
+    Jimmy Allen: http://www.folktunefinder.com/tune/126391
+    Salmon Tails Up The Water: http://www.folktunefinder.com/tune/51313
+    Because He Was A Bonny Lad: http://www.folktunefinder.com/tune/137306
   Nancy:		
-    Nancy: 178209
-    Waiting For The Federals: 107904
+    Nancy: http://www.folktunefinder.com/tune/178209
+    Waiting For The Federals: http://www.folktunefinder.com/tune/107904
   North Country Waltzes:	
-    The Waters Of Tyne: 109281
-    Rothbury Hills: 186374 
+    The Waters Of Tyne: http://www.folktunefinder.com/tune/109281
+    Rothbury Hills: http://www.folktunefinder.com/tune/186374
   Easy Jigs:	
-    Smash The Windows: 189479
-    The Kesh: 23700
-    The Blackthorn Stick: 13890  
+    Smash The Windows: http://www.folktunefinder.com/tune/189479
+    The Kesh: http://www.folktunefinder.com/tune/23700
+    The Blackthorn Stick: http://www.folktunefinder.com/tune/13890
   Hornpipes 1:	
-    Redesdale: 64075
-    The Harvest Home: 119828
-    The Marquis Of Lorne: 100715
+    Redesdale: http://www.folktunefinder.com/tune/64075
+    The Harvest Home: http://www.folktunefinder.com/tune/119828
+    The Marquis Of Lorne: http://www.folktunefinder.com/tune/100715
   Johnny:
-    Johnny Lad: 129644
-    Go To Berwick, Johnny: 36485
+    Johnny Lad: http://www.folktunefinder.com/tune/129644
+    Go To Berwick, Johnny: http://www.folktunefinder.com/tune/36485
   Rant up Green Lane:
-    Dinnington Rant:  153499
-    Morpeth Rant: 176958
+    Dinnington Rant:  http://www.folktunefinder.com/tune/153499
+    Morpeth Rant: http://www.folktunefinder.com/tune/176958
   West Jes Set:
-    Egan's Polka: 51381
-    John Ryan's Polka: 51309
+    Egan's Polka: http://www.folktunefinder.com/tune/51381
+    John Ryan's Polka: http://www.folktunefinder.com/tune/51309
 
 ---
