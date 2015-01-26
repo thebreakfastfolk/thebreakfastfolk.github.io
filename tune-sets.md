@@ -27,5 +27,9 @@ sets:
   Rant up Green Lane:
     Dinnington Rant:  153499
     Morpeth Rant: 176958
+  West Jes Set:
+    Egan's Polka: 51381
+    Rattlin Bog
+    John Ryan's Polka: 51309
 
 ---
