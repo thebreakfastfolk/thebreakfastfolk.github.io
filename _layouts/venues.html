@@ -25,6 +25,14 @@ layout: default
                     frameborder="0">
             </iframe>
 
+            <br/>
+            <br/>
+
+            {% for event in venue.events %}
+                <b>{{ event[0] }}</b>
+                {{ event[1] | markdownify }}
+            {% endfor %}
+
         </div>
         <iframe width="600"
                 height="450"
