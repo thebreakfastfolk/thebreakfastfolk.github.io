@@ -34,5 +34,8 @@ sets:
     Egan's Polka: http://www.folktunefinder.com/tune/51381
     Rattlin Bog: https://thesession.org/tunes/583
     John Ryan's Polka: http://www.folktunefinder.com/tune/51309
+  Floating:
+    Floating From Skerry: http://www.folktunefinder.com/tune/158418/
+    Archibald MacDonald of Keppoch: http://www.folktunefinder.com/tune/50895/
 
 ---
