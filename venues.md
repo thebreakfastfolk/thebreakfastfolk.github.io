@@ -19,9 +19,6 @@ venues:
     
     calendar: https://www.google.com/calendar/embed?mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fat2macdbf2frk2kbld1p9qj3g@group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon"
     
-    events:
-  
-    Summer Break
-    Please note there is no Breakfast Folk this week - next session is Saturday September 5th
+    events: Please note there is no Breakfast Folk this week - next session is Saturday September 5th, see you then !
 
 ---
