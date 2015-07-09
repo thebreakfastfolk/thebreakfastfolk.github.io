@@ -21,6 +21,7 @@ venues:
     
     events:
   
-    
+    Summer Break
+    Please note there is no Breakfast Folk this week - next session is Saturday September 5th
 
 ---
