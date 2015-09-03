@@ -22,6 +22,6 @@ venues:
     events: 
     
     announcement:
-        Please note there is no Breakfast Folk this week - next session is Saturday September 5th, see you then!
+        First session back after the summer holidays is this week Saturday 5th September - hope to see you all over the next few weeks!
 
 ---
