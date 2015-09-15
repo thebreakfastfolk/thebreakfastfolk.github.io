@@ -38,5 +38,7 @@ sets:
   Floating:
     Floating From Skerry: http://www.folktunefinder.com/tune/158418/
     Archibald MacDonald of Keppoch: http://www.folktunefinder.com/tune/50895/
-
----
+  Eponymous Jigs:
+    Owen Hackett's: http://www.folktunefinder.com/tune/154276/
+    Sandy McGaff's: http://www.folktunefinder.com/tune/141768/
+    Kate Elliot's: http://www.folktunefinder.com/tune/169293/
