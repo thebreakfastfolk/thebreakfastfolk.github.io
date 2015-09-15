@@ -33,7 +33,7 @@ sets:
     Morpeth Rant: http://www.folktunefinder.com/tune/176958
   West Jes Set:
     Egan's Polka: http://www.folktunefinder.com/tune/51381
-    Rattlin Bog: https://thesession.org/tunes/583
+    Rattlin Bog: http://www.folktunefinder.com/tune/64002/
     John Ryan's Polka: http://www.folktunefinder.com/tune/51309
   Floating:
     Floating From Skerry: http://www.folktunefinder.com/tune/158418/
