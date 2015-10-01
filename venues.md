@@ -22,6 +22,6 @@ venues:
     events: 
     
     announcement:
-        First session back after the summer holidays is this week Saturday 5th September - hope to see you all over the next few weeks!
+        Record turnout last week of 28! Thanks to everyone for turning up, hope to see you all again this week.  Champagne Moment goes to James on guitar with Match of the Day theme tune.
 
 ---
