@@ -8,6 +8,7 @@ sets:
     Salmon Tails Up The Water: http://www.folktunefinder.com/tune/51313
     Because He Was A Bonny Lad: http://www.folktunefinder.com/tune/137306
   Nancy:
+    Match of the Day: http://www.folktunefinder.com/tune/39337/
     Waiting For The Federals: http://www.folktunefinder.com/tune/107904
     Nancy: http://www.folktunefinder.com/tune/178209
   Shetland Reels:
