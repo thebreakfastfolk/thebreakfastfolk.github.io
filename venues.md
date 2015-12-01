@@ -21,9 +21,8 @@ venues:
     
     events: 
     
-    announcement:
-    November 28th - another enjoyable session, thanks to Deb and Roger for introducing a few new (old!) tunes!
-    Reminder that Saturday 12th December is the last session before Christmas then start again on January 9th.
-
+    announcements:  
+      - "November 28th: another enjoyable session, thanks to Deb and Roger for introducing a few new (old!) tunes!"
+      - Reminder that Saturday 12th December is the last session before Christmas then start again on January 9th.
     
 ---

@@ -41,7 +41,6 @@ layout: default
 
 </div>
 <!-- /row -->
-
-<h4>{{ venue.announcement }}</h4>
+{% for a in venue.announcements %} <h4>{{ a }}</h4> {% endfor %}
 
 {% endfor %}
