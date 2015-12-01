@@ -22,6 +22,7 @@ venues:
     events: 
     
     announcement:
-        Record turnout last week of 28! Thanks to everyone for turning up, hope to see you all again this week.  Champagne Moment goes to James on guitar with Match of the Day theme tune.
+        November 28th: another enjoyable session, thanks to Deb and Roger for introducing a few new (old!) tunes!
+        Reminder that Saturday 12th December is the last session before Christmas then start again on January 9th.
 
 ---
