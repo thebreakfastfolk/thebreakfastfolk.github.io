@@ -23,7 +23,6 @@ venues:
     
     announcements:  
       - "November 28th: another enjoyable session, thanks to Deb and Roger for introducing a few new (old!) tunes!"
-      
       - "January 9th 2016: Happy New Year folks, thanks for coming.  Well done Maria for leading a tune on fiddle, look forward to hearing more.  Keep those lunchtime scottish smallpipes practice sessions going Ewan!"
      
 ---
