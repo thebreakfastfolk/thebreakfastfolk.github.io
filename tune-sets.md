@@ -44,7 +44,7 @@ sets:
     Sandy McGaff's: http://www.folktunefinder.com/tune/141768/
     Kate Elliot's: http://www.folktunefinder.com/tune/169293/
   Schiehallion:
-    Highland Whisky: http://www.folktunefinder.com/tune/19343/
+    Highland Whisky: https://thesession.org/tunes/8537
     Fiddler Play the Light Strathspey: http://www.folktunefinder.com/tune/19343/
     High Road to Linton: http://www.folktunefinder.com/tune/51521/
 ---
