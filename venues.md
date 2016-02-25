@@ -22,7 +22,12 @@ venues:
     events: 
     
     announcements:  
-      - "November 28th: another enjoyable session, thanks to Deb and Roger for introducing a few new (old!) tunes!"
-      - "January 9th 2016: Happy New Year folks, thanks for coming.  Well done Maria for leading a tune on fiddle, look forward to hearing more.  Keep those lunchtime scottish smallpipes practice sessions going Ewan!"
+      - "CHANGE OF VENUE FOR SATURDAY 26TH FEBRUARY
+      There has been a gas leak at the Trinity Christian Community Centre so the building is closed until further notice.  So this saturday Breakfast Folk session will take place at:
+      
+      St Nicholas Church Hall, Station Road, South Gosforth, NE3 1AN
+      
+    It's opposite South Gosfoth Metro station and there is parking next to the hall.
+    Usual start time at 9.30 a.m. and the hall is booked until 11.30 a.m."
      
 ---
