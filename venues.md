@@ -18,16 +18,15 @@ venues:
     email: danparkin1@gmail.com
     
     calendar: https://www.google.com/calendar/embed?mode=AGENDA&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fat2macdbf2frk2kbld1p9qj3g@group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon"
-    
-    events: 
-    
-    announcements: |-
-      CHANGE OF VENUE FOR SATURDAY 27TH FEBRUARY
-      <br><br>
-      There has been a gas leak at the Trinity Christian Community Centre so the building is closed until further notice.  So this Saturday the Breakfast Folk session will take place at:
-      <br><br>
-      <strong>St Nicholas Church Hall, Station Road, South Gosforth, NE3 1AN</strong>
-      <br><br>
-      It's opposite South Gosfoth Metro station and there is parking next to the hall.
-      Usual start time at 9.30 a.m. and the hall is booked until 11.30a.m.
+
 ---
+
+CHANGE OF VENUE FOR SATURDAY 27TH FEBRUARY
+
+There has been a gas leak at the Trinity Christian Community Centre so the building is closed until further notice.
+So this Saturday the Breakfast Folk session will take place at:
+
+**St Nicholas Church Hall, Station Road, South Gosforth, NE3 1AN**
+
+It's opposite South Gosfoth Metro station and there is parking next to the hall.
+Usual start time at 9.30 a.m. and the hall is booked until 11.30a.m.
