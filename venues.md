@@ -21,12 +21,6 @@ venues:
 
 ---
 
-CHANGE OF VENUE FOR SATURDAY 27TH FEBRUARY
+Saturday 5th:  the gas leak has been sorted at the Trinity Christian Community Centre so back to normal this week folks.
 
-There has been a gas leak at the Trinity Christian Community Centre so the building is closed until further notice.
-So this Saturday the Breakfast Folk session will take place at:
-
-**St Nicholas Church Hall, Station Road, South Gosforth, NE3 1AN**
-
-It's opposite South Gosfoth Metro station and there is parking next to the hall.
-Usual start time at 9.30 a.m. and the hall is booked until 11.30a.m.
+Sunday 6th:  FAMILY CEILIDH 2-4PM at St James and St Basil's Church Hall Fenham.  Come along for a dance and bring the children.  Anyone welcome to join awesome North-east fiddler Sophy Ball in playing for one of the dances - tunes Winstor Gallop and Egan's Polka (both in G).
